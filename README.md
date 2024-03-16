@@ -1,13 +1,13 @@
 # Chemyst
 
 <p align="center">
-  <kbd><img height="400" src="https://github.com/mhasan341/chemyst/blob/main/chem_dash.png"></kbd>
+  <kbd><img height="400" src="https://github.com/mhasan341/chemyst_swiftui_macos/blob/main/chem_dash.png"></kbd>
   </p>
   
 ## About
 MacOS application to generate pdf from questions 
 
-<kbd><img height="400" src="https://github.com/mhasan341/chemyst/blob/main/chem_sub_top.png"></kbd>
+<kbd><img height="400" src="https://github.com/mhasan341/chemyst_swiftui_macos/blob/main/chem_sub_top.png"></kbd>
 
 ## Features
 The app has the following features with endless possibility to extend more
@@ -15,8 +15,8 @@ The app has the following features with endless possibility to extend more
 - PDF Generation
 - Question and Solution Creation
   
- <kbd><img height="400" src="https://github.com/mhasan341/chemyst/blob/main/chem_q.png"></kbd>
- <kbd><img height="400" src="https://github.com/mhasan341/chemyst/blob/main/chem_qs.png"></kbd>
+ <kbd><img height="400" src="https://github.com/mhasan341/chemyst_swiftui_macos/blob/main/chem_q.png"></kbd>
+ <kbd><img height="400" src="https://github.com/mhasan341/chemyst_swiftui_macos/blob/main/chem_qs.png"></kbd>
 
 ## Framework / Tools Used
 1. Realm Database
